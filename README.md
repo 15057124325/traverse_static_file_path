@@ -1,0 +1,2 @@
+# traverse_static_file_path
+通过node遍历文件夹下面所有静态文件，并输出静态文件的绝对路径
